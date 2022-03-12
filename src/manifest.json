@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "tmash06.JoplinJiraKeyAutoLink",
+	"app_min_version": "2.7",
+	"version": "1.0.0",
+	"name": "JiraKeyAutoLink",
+	"description": "",
+	"author": "tmash06",
+	"homepage_url": "https://github.com/tmash06/JoplinJiraKeyAutoLink",
+	"repository_url": "https://github.com/tmash06/JoplinJiraKeyAutoLink",
+	"keywords": []
+}
